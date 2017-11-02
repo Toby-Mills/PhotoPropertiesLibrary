@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema targetNamespace="http://tempuri.org/PhotoPropertyOutput.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/PhotoPropertyOutput.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="photoTagProperties">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="imageFile" type="xs:string" minOccurs="0" maxOccurs="1" />
+				<xs:element name="created" type="xs:dateTime" minOccurs="0" maxOccurs="1" />
+				<xs:element name="createdLocal" type="xs:string" minOccurs="0" maxOccurs="1" />
+				<xs:element name="tagData" type="PhotoTagData" minOccurs="0" maxOccurs="1" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="PhotoTagData">
+		<xs:sequence>
+			<xs:element name="tagDatum" type="PhotoTagDatum" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="PhotoTagDatum">
+		<xs:sequence>
+			<xs:element name="name" type="xs:string" minOccurs="0" maxOccurs="1" />
+			<xs:element name="description" type="xs:string" minOccurs="0" maxOccurs="1" />
+			<xs:element name="value" type="xs:string" minOccurs="0" maxOccurs="1" />
+			<xs:element name="prettyPrintValue" type="xs:string" minOccurs="0" maxOccurs="1" />
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:int" use="optional" />
+		<xs:attribute name="category" type="xs:string" use="optional" />
+	</xs:complexType>
+</xs:schema>

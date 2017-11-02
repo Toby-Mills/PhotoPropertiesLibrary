@@ -1,0 +1,14 @@
+C:\Users\tobym\PhotoPropertiesLibrary\PhotoPropertiesLibrary\bin\Debug\PhotoPropertiesLibrary.dll
+C:\Users\tobym\PhotoPropertiesLibrary\PhotoPropertiesLibrary\bin\Debug\PhotoPropertiesLibrary.pdb
+C:\Users\tobym\PhotoPropertiesLibrary\PhotoPropertiesLibrary\obj\Debug\PhotoPropertiesLibrary.dll
+C:\Users\tobym\PhotoPropertiesLibrary\PhotoPropertiesLibrary\obj\Debug\PhotoPropertiesLibrary.pdb
+C:\Data\Toby\PhotoPropertiesLibrary\PhotoPropertiesLibrary\bin\Debug\PhotoPropertiesLibrary.dll
+C:\Data\Toby\PhotoPropertiesLibrary\PhotoPropertiesLibrary\bin\Debug\PhotoPropertiesLibrary.pdb
+C:\Data\Toby\PhotoPropertiesLibrary\PhotoPropertiesLibrary\obj\Debug\PhotoPropertiesLibrary.dll
+C:\Data\Toby\PhotoPropertiesLibrary\PhotoPropertiesLibrary\obj\Debug\PhotoPropertiesLibrary.pdb
+C:\Data\Toby\PhotoPropertiesLibrary\PhotoPropertiesLibrary\obj\Debug\PhotoPropertiesLibrary.csprojResolveAssemblyReference.cache
+C:\Personal\Development\PhotoPropertiesLibrary\PhotoPropertiesLibrary\bin\Debug\PhotoPropertiesLibrary.dll
+C:\Personal\Development\PhotoPropertiesLibrary\PhotoPropertiesLibrary\bin\Debug\PhotoPropertiesLibrary.pdb
+C:\Personal\Development\PhotoPropertiesLibrary\PhotoPropertiesLibrary\obj\Debug\PhotoPropertiesLibrary.csprojResolveAssemblyReference.cache
+C:\Personal\Development\PhotoPropertiesLibrary\PhotoPropertiesLibrary\obj\Debug\PhotoPropertiesLibrary.dll
+C:\Personal\Development\PhotoPropertiesLibrary\PhotoPropertiesLibrary\obj\Debug\PhotoPropertiesLibrary.pdb
